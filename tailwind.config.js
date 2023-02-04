@@ -22,6 +22,7 @@ module.exports = {
         'igLusry': "url('../assets/images/ig_lusry.jpg')",
         'igFerrari': "url('../assets/images/ig_ferrari.jpg')",
         'igYatch': "url('../assets/images/ig_yatch.jpg')",
+        'about': "url('../assets/images/bg-about.png')",
       },
       colors: {
         main: '#1E1E1E',

@@ -21,6 +21,13 @@ p {
     background-position: 10%;
   };
 
+  #about {
+    background-image: url('../assets/images/bg-about.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10%;
+  };
+
   #core {
     background-image: url("../assets/images/pattern-group.png");
     background-repeat: no;
@@ -45,7 +52,7 @@ p {
     left: 0;
     width: 24px;
     height: 2px;
-    background: #1e1e1e;
+    background: #d9d9d9;
   }
 
   .hamburger-middle {
