@@ -23,7 +23,18 @@ module.exports = {
         'igFerrari': "url('../assets/images/ig_ferrari.jpg')",
         'igYatch': "url('../assets/images/ig_yatch.jpg')",
         'about': "url('../assets/images/bg-about.png')",
+        'services': "url('../assets/images/bg-services.png')",
+        'md-services': "url('../assets/images/md-services.png')",
+        'jet': "url('../assets/images/jet.png')",
+        'property': "url('../assets/images/property.png')",
+        'travel': "url('../assets/images/travel.png')",
+        'villa': "url('../assets/images/villa.png')",
+        'art': "url('../assets/images/art.png')",
+        'hotels': "url('../assets/images/hotels.png')",
+        'gifting': "url('../assets/images/gifting.png')",
+        'yatching': "url('../assets/images/yatching.png')",
       },
+
       colors: {
         main: '#1E1E1E',
         paleGold: '#B6862B',
