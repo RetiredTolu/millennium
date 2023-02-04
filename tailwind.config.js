@@ -12,6 +12,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
+        'bg-jet': "url('../assets/images/bg-jet.png')",
         'lambo': "url('../assets/images/millennium_lambo.png')",
         'luxury': "url('../assets/images/millennium_luxury.png')",
         'yatching': "url('../assets/images/millennium_yatch.png')",
