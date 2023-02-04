@@ -21,13 +21,6 @@ p {
     background-position: 10%;
   };
 
-  #about {
-    background-image: url('../assets/images/bg-about.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 10%;
-  };
-
   #core {
     background-image: url("../assets/images/pattern-group.png");
     background-repeat: no;
